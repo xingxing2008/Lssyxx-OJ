@@ -1,9 +1,8 @@
-# 丽水实验学校编程OJ
+# 丽水实验学校编程课
 
-> 如果你是第一次接触这OJ的话，请先看 [编前须看](/start/)
+> 如果你是第一次登入这个网站的话，请先看 [编前须看](/start/)
 
-
-![img](https://bkimg.cdn.bcebos.com/pic/f9198618367adab4fd6d7efe8cd4b31c8601e4ca?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U3Mg==,g_7,xp_5,yp_5)
+![img](/_media/logo.png)
 <br>
 <h3> 
 

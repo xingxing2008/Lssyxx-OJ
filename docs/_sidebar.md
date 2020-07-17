@@ -1,4 +1,4 @@
-![img](https://bkimg.cdn.bcebos.com/pic/f9198618367adab4fd6d7efe8cd4b31c8601e4ca?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U3Mg==,g_7,xp_5,yp_5)
+![img](/_media/logo.png)
 <h2>&#12288 &#12288 实验学校编程 OJ</h2><br>
 
 * [首页](/)
