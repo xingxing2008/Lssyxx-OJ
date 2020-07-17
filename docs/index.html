@@ -15,9 +15,30 @@
     window.$docsify = {
       name: '',
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+      search: 'auto', // 默认值
+
+  
+    // 完整配置参数
+    search: {
+     
+
+      // 支持本地化
+      placeholder: {
+        '/': '搜索'
+        
+      }
+
+      
+    }
+      
+    // 默认值
+
+
+    // 完整配置参数
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
